@@ -23,10 +23,10 @@ pip install pygame
 2. Open a terminal or command prompt in the project directory.
 3. Run the program with:
    
-bash
+`bash
 Copy code
 python sunset_cityscape.py
-
+`
 ## Code Structure
 ### Main Components
 - Sky Transition: The draw_sky function creates a gradient effect for the sky by interpolating between two colors based on the sun’s height.
