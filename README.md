@@ -35,9 +35,9 @@ python sunset_cityscape.py
 - Car Animation: The draw_car function animates a Lamborghini-style car that moves across the screen, giving a lively touch to the scene.
   
 ### Key Variables
-WIDTH, HEIGHT: Screen dimensions.
-SKY_COLORS: Preset color stages for the sky as the sun descends.
-car_speed: Speed of the car moving across the road.
+`WIDTH, HEIGHT`: Screen dimensions.
+`SKY_COLORS`: Preset color stages for the sky as the sun descends.
+`car_speed`: Speed of the car moving across the road.
 
 ## How It Works
 - Initialize Pygame and set up the display.
