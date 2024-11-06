@@ -51,6 +51,6 @@ Draw the sky, sun, buildings, road, and car in each frame.
 ## Customization
 We experimented with:
 
-- Sky Colors: Change SKY_COLORS to customize the sky's color transitions.
-- Car Speed: Adjust car_speed to change how fast the car moves.
+- Sky Colors: Change `SKY_COLORS` to customize the sky's color transitions.
+- Car Speed: Adjust `car_speed` to change how fast the car moves.
 - Building Sizes: Modify building dimensions and spacing to change the cityscape look.
