@@ -13,9 +13,10 @@ Setting Sun Animation: The sun gradually moves downward, simulating a sunset.
 - Pygame library
 To install Pygame, run:
 
-bash
+` bash
 Copy code
 pip install pygame
+`
 
 ## Getting Started
 1. Clone or download the repository to your local machine.
